@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Web Grounder Team](https://www.facebook.com/groups/webgrounder)
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, React, Tailwind CSS,Redux, Next js, **
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, React, Tailwind CSS,Redux, Next js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Mohajan-projects/](https://github.com/Abhishek-Mohajan-projects/)
 

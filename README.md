@@ -1,5 +1,5 @@
 ![I am Abhishek](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
-<h1 align="center">Hi there <img src="https://c.tenor.com/yWSRmymbuBkAAAAS/waving-hi.gif" width="45">, I'm am Abhishek Mohajan</h1>
+<h1 align="center">Hi there <img src="https://c.tenor.com/yWSRmymbuBkAAAAS/waving-hi.gif" width="45">, I'm Abhishek Mohajan</h1>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=0491B5&center=true&width=435&lines=Web+Designer+%7C+Front-end+Developer+%7C+Learner"></p>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 
